@@ -1,0 +1,25 @@
+body{
+    background-color:red;
+    text-align: center;
+}
+
+.nav{
+    align-items:center;
+    background-color:black;
+    color:aliceblue;
+}
+
+.announcement{
+    background-color:black;
+}
+
+#marqueestyle{
+    color:white;    
+}
+
+img{
+    padding-top: 40px;
+}
+
+
+
